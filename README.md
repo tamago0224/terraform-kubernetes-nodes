@@ -1,0 +1,2 @@
+# terraform-kubernetes-nodes
+kubernetesのクラスタ用のKVMのVMを作成するterraformプロジェクト
